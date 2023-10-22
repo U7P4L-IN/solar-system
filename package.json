@@ -1,0 +1,18 @@
+{
+  "name": "webgl",
+  "version": "1.0.0",
+  "description": "",
+  "main": "sketch.js",
+  "scripts": {
+    "start": "canvas-sketch sketch.js",
+    "build": "canvas-sketch sketch.js --name index --build --inline",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "canvas-sketch": "^0.7.3",
+    "three": "^0.120.1"
+  }
+}
