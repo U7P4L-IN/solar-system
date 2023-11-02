@@ -7,7 +7,7 @@
   <br />
   <br />
 
-  <h2 align="center">Prsonal Portfolio Website</h2>
+  <h2 align="center">Solar System Website</h2>
 
   This Is A Fully Responsive Personal Portfolio Website,<br />Responsive for all devices, build using HTML, CSS, and JavaScript.
 
